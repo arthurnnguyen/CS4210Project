@@ -1,3 +1,4 @@
+------ Homelessness -----
 LAHSA Dataset Documents - https://www.lahsa.org/documents?q=&doctype=136&scope=&progtype=&projtype=&sort=Newest
 Housing Inventory Count(LA) - https://www.lahsa.org/homeless-count/hic/
 Persons Experiencing Homelessness(LA) - https://data.lacounty.gov/datasets/c772c0bb9df54a21aabe8ebaa3eb2c0a_0/explore?location=37.085917%2C-112.272854%2C11.53
@@ -8,11 +9,21 @@ Interim Housing KPI(LA) - https://www.lahsa.org/documents?id=8128-2024-05-31-int
 Interim Housing KPI Demographics (LA) - https://www.lahsa.org/documents?id=8127-2024-05-31-interim-housing-kpi-demographics.xlsx
 Street Outreach KPI(LA) - https://www.lahsa.org/documents?id=8126-2024-05-31-street-outreach-kpi.xlsx
 Street Outreach KPI Demographics(LA) - https://www.lahsa.org/documents?id=8125-2024-05-31-street-outreach-kpi-demographics.xlsx
+
+
+------ Housing/Economic -------
 Calfiornia Housing Prices - https://www.kaggle.com/datasets/camnugent/california-housing-prices
 Time Series Mortgage Denials By Race - https://catalog.data.gov/dataset/time-series-mortgage-denials-by-race
 Percent Of Denied Mortgage Loan Applications By Race And Loan Purpose 2021 - https://catalog.data.gov/dataset/percent-of-denied-mortgage-loan-applications-by-race-and-loan-purpose-2021
+Workers' Rights Income and Employment Index - https://geohub.lacity.org/datasets/0c40fbecc49e46eab31a07d27266d7c2_0/explore?location=33.798400%2C-118.298767%2C8.11
+
+
+------ Weather -------
 Extreme Precipitation Low Emissions RCP 8.5 - https://data.lacounty.gov/datasets/c6bfb59ffc16412f9ffbf48883a83310_0/explore?location=34.052651%2C-118.298800%2C7.58
 Extreme Heat Low Emissions RCP 8.5 - https://data.lacounty.gov/datasets/3688774753b74dc28593db422db60597_0/explore?location=34.130686%2C-118.426045%2C7.77
+LA Housing Eviction Notices - https://housing.lacity.gov/residents/renters/eviction-notices-filed
+85th and 95th Percentile Rainfall - https://geohub.lacity.org/datasets/0eeb8e59bd194c3a97d03ea6dfe2cfea_2/explore?location=34.259512%2C-118.298450%2C8.96
+
 
 
 
